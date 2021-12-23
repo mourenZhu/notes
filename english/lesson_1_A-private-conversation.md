@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-21 23:22:38
- * @LastEditTime: 2021-12-21 23:59:05
+ * @LastEditTime: 2021-12-23 16:23:47
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: \notes\english\lesson_1_A-private-conversation.md
@@ -41,7 +41,10 @@
 |get | got| got/gotten| getting|
 |pay | paid| paid|
 |bear| bore| borne|
-|say|said|said|
+|say | said| said|
+|think| thought | thought|
+|ring | rang | rung |
+|come | came | come | coming|
 
 - 过去式只有唯一一种用途，用于一般过去时
 - 过去分词-完成时态、被动语态、非谓语动词
