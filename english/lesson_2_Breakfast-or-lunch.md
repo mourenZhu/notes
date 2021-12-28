@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-22 19:55:43
- * @LastEditTime: 2021-12-23 16:20:05
+ * @LastEditTime: 2021-12-23 16:53:09
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: \notes\english\lesson_2_Breakfast-or-lunch.md
@@ -54,7 +54,7 @@
         - Is he listening?
         - What is he doing?
 
-# 一般现在时 VS 现在进行时
+## 一般现在时 VS 现在进行时
 - I am looking out of my window.
 - I can see some children in the street. 
 - The children *are playing* football.
