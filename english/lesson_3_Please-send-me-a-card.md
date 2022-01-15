@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-23 16:49:29
- * @LastEditTime: 2021-12-24 11:13:10
+ * @LastEditTime: 2022-01-15 11:22:35
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: \notes\english\lesson_3_Please-send-me-a-card.md
@@ -30,3 +30,9 @@ V.过去式（did）
 - They **had** a meeting.
 - They **did not have** a meeting.
 - **Did** they **have** a meeting.
+
+### 主谓双宾
+- 哪些及物动词(vt.)能接双宾语?
+    send, teach, lend, give, ask, tell, offer, cook, buy, get, make, write, bring, show ...
+
+ 
