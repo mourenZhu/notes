@@ -1,12 +1,19 @@
 <!--
  * @Author: your name
  * @Date: 2022-01-16 15:21:37
- * @LastEditTime: 2022-01-16 16:17:32
+ * @LastEditTime: 2022-01-17 15:23:34
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: \notes\english\lesson_5_No-wrong-numbers.md
 -->
 # Lesson 5 No wrong numbers
+
+## text
+```
+What does 'No wrong numbers' mean?
+
+Mr.Janes Scott has a garage in Silbury and now he has just bought another garage in Pinhurst. Pinhurst is only five miles from Silbury, but Mr.Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons. Yesterday, a pigeon carried the first message from Pinhurst to Silbury. The bird covered the distance in three minutes. Up to now, Mr.Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other. In this way, he has begun his own private 'telephone' service.
+```
 
 ## Key structure
 - 现在完成时

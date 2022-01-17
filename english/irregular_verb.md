@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2022-01-15 11:30:25
- * @LastEditTime: 2022-01-15 15:37:20
+ * @LastEditTime: 2022-01-17 14:51:58
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: \notes\english\irregular_verb.md
@@ -33,6 +33,14 @@
 |buy | bought | bought |
 |spend | spent | spent | 
 |write | wrote | written | writing |
+|stand | stood | stood |
+|sing | sang | sung|
+|give | gave | given | giving |
+|eat | ate | eaten |
+|drink | drank | drunk |
+|put | put | put | putting |
+|talk | told | told |
+|know | known | known|
 
 - 过去式只有唯一一种用途，用于一般过去时
 - 过去分词-完成时态、被动语态、非谓语动词

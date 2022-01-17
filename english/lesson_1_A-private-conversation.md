@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-21 23:22:38
- * @LastEditTime: 2022-01-15 10:28:43
+ * @LastEditTime: 2022-01-17 14:54:30
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: \notes\english\lesson_1_A-private-conversation.md
@@ -10,10 +10,12 @@
 # Lesson 1 A private conversation
 
 ## text
-    Wyh did writer complain the people behind him?
-    
-    Last week I went to the theatre. I had a very good seat. The play was very interesting. I did not enjoy it. A young man and a young woman were sitting behind me. They talking loudly. I got very angry. I could hear the actors. I turned round. I looked at the man and the woman angrily. They did not pay any attention. In the end, I could not hear it. I turned round again. 'I can't hear a word!'I said angrily.
-      'It's none of your business,'the young man said rudely.'This is a private conversation!' 
+```
+Wyh did writer complain the people behind him?
+
+Last week I went to the theatre. I had a very good seat. The play was very interesting. I did not enjoy it. A young man and a young woman were sitting behind me. They talking loudly. I got very angry. I could hear the actors. I turned round. I looked at the man and the woman angrily. They did not pay any attention. In the end, I could not hear it. I turned round again. 'I can't hear a word!'I said angrily.
+  'It's none of your business,'the young man said rudely.'This is a private conversation!' 
+```
 
 
 ## 简单陈述句的分类

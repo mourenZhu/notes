@@ -1,12 +1,19 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-23 16:49:29
- * @LastEditTime: 2022-01-15 11:22:35
+ * @LastEditTime: 2022-01-17 15:07:56
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: \notes\english\lesson_3_Please-send-me-a-card.md
 -->
 # Lesson 3 Please send me a card
+
+## text
+```
+How many cards did the writer send?
+
+Postcards always spoil my holidays. Last summer, I went to Italy. I visited museums and sat in public gardens. A friendly waiter taught me a few words of Italian. Then he lent me a book. I read a few lines, but I did not understand a word. Every day I thought about postcards. My holidays passed quickly, but I did not send cards to my friends. On the last day I made a big decision. I got up early and bought thirty-seven cards. I spent the whole day in my room, but I did not write a single card!
+```
 
 ## 一般过去时
 ### 形式
