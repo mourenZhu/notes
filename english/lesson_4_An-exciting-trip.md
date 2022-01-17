@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2022-01-15 15:51:25
- * @LastEditTime: 2022-01-17 15:41:13
+ * @LastEditTime: 2022-01-17 18:56:41
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE#
  * @FilePath: \notes\english\lesson_4_An-exciting-trip.md
@@ -9,18 +9,18 @@
 # lesson 4 An exciting trip
 
 ## text
-```
+
 Why is Tim finding this trip exciting?
 
 I have just received a letter from my brother, Tim. He is in Australia. He has been there for six monthes. Tim is an engineer. He is working for a big firm and he has already visited a great number of different places in Australia. He has just bought an Australian car and has gone to Alice Springs, a small town in the centre of Australia. He will soon visit Darwin. From there, he will fly to Perth. My brother has never been abroad before, so he is finding this trip very exciting.
-```
+
 
 ## Key structure
 1. 现在完成时
     - 形式
-    ``` 
+     
     have/has + done (V.过去分词)
-    ``` 
+     
     - 用法  
     现在的之前
         1. 现在**全部完成**

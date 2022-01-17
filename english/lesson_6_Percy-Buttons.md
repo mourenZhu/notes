@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2022-01-17 11:16:54
- * @LastEditTime: 2022-01-17 15:30:40
+ * @LastEditTime: 2022-01-17 18:56:33
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: \notes\english\lesson_6_Percy-Buttons.md
@@ -9,11 +9,11 @@
 # Lesson 6 Percy Buttons
 
 ## text
-```
+
 Who is Percy Buttons?
 
 I have just moved to a house in Bridge Street. Yesterday a beggar knocked at my door. He asked me for a meal and a glass of beer. In return for this, the beggar stood on his head and sang songs. I gave him a meal. He ate the food and drank the beer. Then he put a piece of cheese in his pocket and went away. Later a neighbour told me about him. Everybody knows him. His name is Percy Buttons. He calls at every house in the street onece a month and always asks for a meal and a glass of beer.
-```
+
 
 ## Key structure
 - 冠词

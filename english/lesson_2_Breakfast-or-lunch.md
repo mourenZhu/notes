@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-22 19:55:43
- * @LastEditTime: 2022-01-17 15:01:38
+ * @LastEditTime: 2022-01-17 18:56:47
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: \notes\english\lesson_2_Breakfast-or-lunch.md
@@ -9,7 +9,7 @@
 # Lesson 2 Breakfast or lunch?
 
 ## text
-```
+
 Why was the writer's aunt surprised?
 
 It was Sunday. I never get up early on Sundays.I sometimes stay in bed until lunchtime. Last Sunday I got up very late.I looked out of the window. It was dark outside. 'What a day!' I thought. 'It's raining again.' Just then, the telephone rang. It was my aunt Lucy. 'I've just arrived by train.' she said,'I'm coming to see you.'
@@ -17,7 +17,7 @@ It was Sunday. I never get up early on Sundays.I sometimes stay in bed until lun
     'What are you doing?' she asked.
     'I'm having breakfast,'I repeated.
     'Dear me!'she said. 'Do you always get up so late? It's one o'clock!'
-```
+
 
 ## 时态
 
